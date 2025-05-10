@@ -12,3 +12,6 @@
     "express": "^4.17.1"
   }
 }
+"engines": {
+    "node": "18.x"  // Match Render's supported version
+}
